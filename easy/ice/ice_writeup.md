@@ -1,7 +1,7 @@
 # THM / Ice Walkthrough
 
-The markdown code below showcases various markdown features. Enjoy!
-
+Feel free to contact me through the following profiles:
+[Linkedin](https://github.com/tobproject) | [GitHub](https://github.com/tobproject) | [Instagram](https://github.com/tobproject)
 
 ## TASK 2 : **Recon**
 ## **Step 1: Escaneo inicial del host**
